@@ -2,9 +2,9 @@
 
 The primary objective of this project is to conduct a comprehensive analysis of supermarket sales across three cities, extracting valuable insights for potential business strategies. The project involves a meticulous data processing workflow utilizing MySQL, Microsoft Excel, and Microsoft Power BI, with each step outlined as follows:
 
-- Data Import to MySQL from Excel (CSV format):
+1. Data Import to MySQL from Excel (CSV format):
 
--- The initial phase involves importing raw data from Excel in CSV format into a MySQL database. This step ensures a structured database for subsequent analysis.
+- The initial phase involves importing raw data from Excel in CSV format into a MySQL database. This step ensures a structured database for subsequent analysis.
 Data Cleaning and Filtering using SQL:
 
 Following the import, critical transformations and enhancements are applied to the data. SQL queries are utilized for cleaning and filtering, ensuring the data is accurate and relevant for analysis.
